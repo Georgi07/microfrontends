@@ -118,7 +118,7 @@ const footers = [
     title: "Features",
     description: [
       "Cool stuff",
-      "Random feature",
+      "Random features",
       "Team feature",
       "Developer stuff",
       "Another one",
