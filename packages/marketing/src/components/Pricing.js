@@ -86,10 +86,10 @@ const tiers = [
   {
     title: "Pro",
     subheader: "Most popular",
-    price: "15",
+    price: "22",
     description: [
-      "20 users included",
-      "10 GB of storage",
+      "22 users included",
+      "12 GB of storage",
       "Help center access",
       "Priority email support",
     ],
@@ -100,8 +100,8 @@ const tiers = [
     title: "Enterprise",
     price: "30",
     description: [
-      "50 users included",
-      "30 GB of storage",
+      "22 users included",
+      "35 GB of storage",
       "Help center access",
       "Phone & email support",
     ],
