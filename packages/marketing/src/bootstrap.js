@@ -8,13 +8,13 @@ const mount = (el) => {
 };
 // If we are in development and in isolation,
 // call mount immediately
-if (process.env.NODE_ENV === "development") {
-  const devRoot = document.querySelector("#_marketing-dev-root");
+// if (process.env.NODE_ENV === "development") {
+//   const devRoot = document.querySelector("#_marketing-dev-root");
 
-  if (devRoot) {
-    mount(devRoot);
-  }
-}
+//   if (devRoot) {
+//     mount(devRoot);
+//   }
+// }
 
 export { mount };
 // We are running through container
