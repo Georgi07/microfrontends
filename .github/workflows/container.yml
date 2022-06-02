@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-    p      - 'packages/container/**'
+        - 'packages/container/**'
 
 defaults:
   run:
