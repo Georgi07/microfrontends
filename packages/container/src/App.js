@@ -17,8 +17,7 @@ export default () => {
       <StylesProvider generateClassName={generateClassName}>
         <div>
           <h1>Hi there@@sss!!!</h1>
-          <p>test</p>
-          <p>test2ssssdasda</p>
+          <p>teSst</p>
           <Header />
           <MarketingApp />
         </div>
