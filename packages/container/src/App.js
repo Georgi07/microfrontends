@@ -18,7 +18,7 @@ export default () => {
         <div>
           <h1>Hi there@@sss!!!</h1>
           <p>test</p>
-          <p>test2ssssda</p>
+          <p>test2ssssdasda</p>
           <Header />
           <MarketingApp />
         </div>
